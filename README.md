@@ -1,1 +1,1 @@
-# vaadin-tutorials
+# Education Vaadin
