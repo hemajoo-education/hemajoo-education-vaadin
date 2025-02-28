@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hemajoo.education</groupId>
-    <artifactId>education-vaadin-parent</artifactId>
+    <artifactId>vaadin-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>../education-vaadin-commons</module>
-        <module>../education-vaadin-utilities</module>
-        <module>../education-vaadin-web</module>
+        <module>../vaadin-commons</module>
+        <module>../vaadin-utilities</module>
+        <module>../vaadin-web</module>
     </modules>
 
     <developers>
